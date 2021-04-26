@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lijianru)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lijianru.react-component-performance-optimization)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lijianru)
